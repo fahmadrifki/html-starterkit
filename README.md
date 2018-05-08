@@ -4,7 +4,7 @@ Basic frontend template for projects using HTML, CSS, Javascript.
 ## Basic Usage
 
 ``` bash
-git https://github.com/fahmadrifki/html-starterkit.git YOUR_PROJECT_NAME
+git clone https://github.com/fahmadrifki/html-starterkit.git YOUR_PROJECT_NAME
 cd YOUR_PROJECT_NAME
 git remote remove origin
 ```
