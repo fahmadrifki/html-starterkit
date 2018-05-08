@@ -9,6 +9,8 @@ cd YOUR_PROJECT_NAME
 git remote remove origin
 ```
 
+*delete folder: .git 
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/fahmadrifki/html-starterkit/issues) here on GitHub
